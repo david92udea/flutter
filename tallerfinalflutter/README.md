@@ -1,6 +1,6 @@
 # tallerfinalflutter
 
-A new Flutter project.
+Taller Final Creado para el curso de Flutter dirijido por Miguel Angel Ramos
 
 ## Getting Started
 
